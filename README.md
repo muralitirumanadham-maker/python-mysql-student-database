@@ -94,25 +94,14 @@ Shows the available operations.
 
 Students can be added and displayed from the database.
 
-<img width="800" alt="Add Student" src="screenshots/add-view-student.png">
+<img width="800" alt="Add Student" src="screenshots/Add-view-student.png">
 
 ### Search Student
 
-Search student records using Student ID.
+Search,update,delete student records using Student ID.
 
-<img width="800" alt="Search Student" src="screenshots/search-student.png">
+<img width="800" alt="Search Student" src="screenshots/search_upd_del.png">
 
-### Update Marks
-
-Update marks of an existing student.
-
-<img width="800" alt="Update Marks" src="screenshots/update-marks.png">
-
-### Delete Student
-
-Delete student records from the database.
-
-<img width="800" alt="Delete Student" src="screenshots/delete-student.png">
 
 ## Sample Operations
 
