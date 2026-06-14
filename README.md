@@ -88,8 +88,6 @@ python Student_database.py
 
 Shows the available operations.
 
-<img width="800" alt="Main Menu" src="screenshots/main-menu.png">
-
 ### Add and View Students
 
 Students can be added and displayed from the database.
